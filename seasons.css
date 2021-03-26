@@ -1,0 +1,126 @@
+html, body {
+    margin: 0px;
+    padding: px;
+}
+
+body {
+    font-family: sans-serif;
+    background-image: url("fallingleaves.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#wrap {
+    Width: 68%;
+    margin: auto;
+    background-color: #4987c0;
+    font-family: Verdana;
+}
+
+#springwrap {
+    width: 68%;
+    margin: auto;
+    background-color: #00ff7f;
+    font-family: Verdana;
+}
+
+#summerwrap {
+    width: 70%;
+        margin: auto;
+    background-color: #FCEEA7;
+    font-family: Verdana;
+}
+
+#fallwrap {
+    width: 68%;
+    margin: auto;
+    background-color: #fa9422;
+    font-family: verdana;
+}
+
+#winterwrap {
+    width: 68%;
+    margin: auto;
+    background-color: #d6ecef;
+    font-family: verdana;
+}
+
+header {
+    font-size: 30px;
+    text-align: center;
+   font-variant: bold;
+}
+
+nav {
+    background-color: #a16456;
+    text-align: center;
+    padding: 18px 0;
+    font-family: verdana;
+}
+
+nav a{
+    color: #d1a3a4;
+    padding: 15px 40px;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+#home a:hover {
+    color: #000000;
+    font: bold;
+}
+
+
+#spring a:hover {
+    color: black;
+    font: bold;
+}
+
+
+#summer a:hover {
+    color: black;
+    font: bold;
+}
+
+
+#fall a: hover {
+    color: black;
+    font: bold;
+}
+
+
+winter a:hover {
+    color: black;
+    font: bold;
+}
+
+
+nav li {
+    display: inline;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+#fallingleaves {
+    width: 30%;
+    float: right;
+    padding: 25px;
+}
+
+#fourseasons {
+    width: 40%;
+    float: left;
+    padding: 0px;
+}
+
+section {
+    padding: 10px 20px;
+    overflow: auto;
+}
+
+footer {
+    text-align: center;
+}
