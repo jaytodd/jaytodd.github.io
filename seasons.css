@@ -7,7 +7,29 @@ body {
     font-family: sans-serif;
     background-image: url("seasons.jpg");
     background-size: 100%;
-  
+    background-repeat: no-repeat;
+}
+
+body #fallbg {
+    font-family: sans-serif;
+    background-image: url("fallingleaves.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+body #springbg {
+    background-image: url("spring-tree.png");
+        background-repeat: no-repeat;
+}
+
+body #winterbg {
+    background-image: url("winter-tree.png");
+    background-repeat: no-repeat;
+}
+
+body #summerbg {
+    background-image: url("summer-tree.png");
+    background-repeat: no-repeat;
 }
 
 #wrap {
