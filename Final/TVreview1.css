@@ -1,0 +1,148 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Baloo Paaji 2', cursive;
+}
+
+body {
+	background-color: #ffdac1;
+}
+
+#wrap {
+	width: 90%;
+	margin: 0 auto;
+}
+
+
+
+header {
+	padding: 10px;
+}
+
+nav {
+	font-family: 'Baloo Paaji 2', cursive;
+	font-size: 22px;
+	padding: 0 4px;
+}
+
+
+
+
+
+
+
+nav {
+    background-color:#87CEEB;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    font-family: Verdana,sans-serif;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 120%
+}
+
+nav a:hover {
+    background-color: red;
+    color: green;
+}
+
+nav li {
+    display: inline;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding:1% 4%;
+}
+
+.button{
+    background-color:#0b3d91
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 20px;
+    display: inline-block;
+    border-radius: 10px
+}
+
+a.button:hover{
+    background-color: #ec3d0f
+}
+
+
+
+
+
+
+
+section {
+	width: 100%;
+}
+
+#about {
+	float: left;
+	padding: 1% 2%;
+	width: 40%;
+}
+
+#about p {
+	font-size: 18px;
+}
+
+#form {
+	float: right;
+	width: 50%;
+	padding: 1%;
+	margin: 0;
+	height: 400px;
+}
+
+#socialMedia {
+	padding: 10%;
+	float: center;
+}
+
+
+.intro {
+	width: 95%;
+	text-align: center;
+}
+
+.intro p{
+	font-size: 18px;
+	text-align: left;
+}
+
+.slideshow {
+	width: 100%;
+	padding: 1% 15%;
+}
+
+.reviews {
+	width: 95%;
+}
+
+.reviews p {
+	font-size: 16px;
+}
+
+.video {
+	padding: 0 8%;
+	width: 100%;
+}
+
+footer {
+	background-color: #FF4200;
+}
+
+#tag {
+	float: center;
+}
